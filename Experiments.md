@@ -1,5 +1,5 @@
 # Experimental Features
-These are the items that I personally enabled within the 'vivaldi://experiments/' options.
+These are the items that I enabled within `vivaldi://experiments/`.
 
 * [x] Enable Chrome Pages
 * [x] Allow CSS modifications
