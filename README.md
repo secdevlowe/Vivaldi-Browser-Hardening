@@ -19,6 +19,14 @@ This repository uses security-focused addons, tweaks configuration settings, and
 	* Parallel downloading
 * Ameliorated browsing usage without degradation privacy
 
+## How-to
+
+View the following pages for a reference of which settings to enable/disbale to harden the Vivaldi web browser.
+
+* [Experiments](https://github.com/secdevlowe/Vivaldi-Browser-Hardening/blob/main/Experiments.md)
+* [Flags](https://github.com/secdevlowe/Vivaldi-Browser-Hardening/blob/main/Flags.md)
+* [Extensions](https://github.com/secdevlowe/Vivaldi-Browser-Hardening/blob/main/Extensions.md)
+
 ## Credits
 
 * [melo936](https://github.com/melo936/ChromiumHardening)
