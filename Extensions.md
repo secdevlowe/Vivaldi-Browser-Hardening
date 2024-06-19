@@ -8,7 +8,6 @@ Browser extensions have been known to be harmful, unsafe, and privacy compromisi
 * [Request Control](https://chromewebstore.google.com/detail/gkadogdmakibilhnklflcgaennojgipd)
 * [Redirector](https://chromewebstore.google.com/detail/ocgpenflpmgnfapjedencafcfakcekcd)
 * [Privacy Badger](https://chromewebstore.google.com/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp)
-* [](https://chromewebstore.google.com/detail/mysudo-browser-extension/ofdimlelfhojcplmfhpcehiehbekggan)
 * [MySudo Browser Extension](https://chromewebstore.google.com/detail/mysudo-browser-extension/ofdimlelfhojcplmfhpcehiehbekggan)
 * [Mailvelope](https://chromewebstore.google.com/detail/mailvelope/kajibbejlbohfaggdiogboambcijhkke)
 * [KeePassXC-Browser](https://chromewebstore.google.com/detail/keepassxc-browser/oboonakemofpalcgghocfoadofidjkkk)
